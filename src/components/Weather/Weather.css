@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box
+}
+.panel {
+    line-height: 2em;
+    width: 95%;
+    border: 1px solid gray;
+    margin: 10px auto;
+    box-shadow: 5px 5px #888888;
+    padding: 10px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+.place {
+    font-size: 1.5em;
+    float: left;
+}
+
+.temp {
+    float: right;
+    font-size: 2em;
+}
+.desc {
+    clear: both;
+}

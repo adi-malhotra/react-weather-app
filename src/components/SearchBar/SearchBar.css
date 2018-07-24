@@ -1,0 +1,22 @@
+.search {
+    margin-top: 10px;
+    width: 90%;
+    height: 40px;
+}
+.search:focus{
+    border-color: lightblue;
+}
+
+.submitButton {
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightblue;
+}
+
+.submitButton:hover {
+    background-color: rgba(12, 12, 168, 0.671);
+    color: white;
+}
